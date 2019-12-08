@@ -31,6 +31,10 @@ PythonStudy
 - [Python 공식 홈페이지](https://www.python.org/downloads/)에서 3.8 버전을 다운 받습니다. 
 - Python 3.8 다운로드 URL : https://www.python.org/downloads/
 
+## Python Hello World 출력해보기
+
+- 첫번째 과제로 HelloWorld 폴더에 Hello World! 를 출력하는 간단한 파이썬 프로그램을 작성해본다.
+
 ## IDE 설치
 
 - 파이썬에서 기본적으로 제공하는 IDLE 편집기가 있지만 불편하니 **[Visual Studio Code](https://code.visualstudio.com/)** 를 설치합니다. (원한다면 다른 프로그램도 무방합니다.)
