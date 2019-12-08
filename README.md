@@ -3,6 +3,7 @@ PythonStudy
 
 **✏️ 무거운 형제들의 파이썬 스터디**
 
+![Python](python-logo.png)
 
 # 소개
 
@@ -24,17 +25,35 @@ PythonStudy
 ## 가이드 영상 
 
 - 환경 구성 및 세팅하는 방법을 영상으로 설명합니다. (추가 예정)
+- 2019.11.29 라이브 방송 예정
 
 ## Python 설치
 
 - [Python 공식 홈페이지](https://www.python.org/downloads/)에서 3.8 버전을 다운 받습니다. 
 - Python 3.8 다운로드 URL : https://www.python.org/downloads/
 
+## Python Hello World 출력해보기
+
+- 첫번째 과제로 HelloWorld 폴더에 Hello World! 를 출력하는 간단한 파이썬 프로그램을 작성해본다.
+
 ## IDE 설치
 
 - 파이썬에서 기본적으로 제공하는 IDLE 편집기가 있지만 불편하니 **[Visual Studio Code](https://code.visualstudio.com/)** 를 설치합니다. (원한다면 다른 프로그램도 무방합니다.)
 - Visual Studio Code 다운로드 URL : https://code.visualstudio.com/
-- Python 관련 플러그인과 MarkDown 관련 플러그인을 설치합니다. 
+- Python 관련 플러그인을 설치합니다. 
+  1. Python
+  2. Python for VSCode
+  3. Python Extension Pack
+
+## 마크다운 작성
+
+- 개발한 코드 설명 및 요구사항은 README.md 로 작성합니다.
+- [마크다운 작성요령](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+- Visual Studio Code를 사용한다면 다음 추천 플러그인 3가지를 설치합니다.
+   1. Markdown All in One
+   2. Markdown Preview Enhanced
+   3. markdownlint
+
 
 ## Git 설치
 
