@@ -24,8 +24,10 @@ PythonStudy
 
 ## 가이드 영상 
 
-- 환경 구성 및 세팅하는 방법을 영상으로 설명합니다. (추가 예정)
-- 2019.11.29 라이브 방송 예정
+- 환경 구성 및 세팅하는 방법을 영상으로 설명합니다.
+- [스터디 개요](https://www.youtube.com/watch?v=UwuDv9WCj64)
+- [파이썬 설치 및 개발 환경 구성](https://www.youtube.com/watch?v=UHBh0EHOGXU)
+- [마크다운 및 Git, Github 사용법](https://www.youtube.com/watch?v=j0NclhMCPfA)
 
 ## Python 설치
 
