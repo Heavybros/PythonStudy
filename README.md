@@ -24,7 +24,7 @@ Python Study
 # 🎓 튜토리얼을 마친 사람 목록
 
 - [신해나라](HelloWorld/Haenara/Helloworld.py)
-- 여기에 추가바람.
+- [서기수](HelloWorld/Kisoo/HelloWorld.py)
 
 # ☑️ 스터디 준비
 
@@ -89,6 +89,7 @@ Python Study
  
 
 # 👀 참고 자료
+- [점프투파이썬 책 예제](https://github.com/flagman1211/PythonExam)⭐️
 
 ## 🎥 가이드 영상 
 
