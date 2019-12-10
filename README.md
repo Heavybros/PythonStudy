@@ -89,6 +89,7 @@ Python Study
  
 
 # 👀 참고 자료
+- [점프투파이썬 책 예제](https://github.com/flagman1211/PythonExam)⭐️
 
 ## 🎥 가이드 영상 
 
@@ -107,7 +108,6 @@ Python Study
 - [Git 세미나 자료](https://www.dropbox.com/s/k16g5sgsfb2s0bn/2017_10_25_GIT%EC%84%B8%EB%AF%B8%EB%82%98%EC%9E%90%EB%A3%8C.pptx?dl=0)
 - [Git 브랜치 배우기](https://learngitbranching.js.org/)
 - [누구나 쉽게 이해할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/intro/intro2_1.html)
-- [점프투파이썬 책 예제](https://github.com/flagman1211/PythonExam)⭐️
 
 ## :octocat: GitHub 사용방법 익혀보기
 
