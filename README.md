@@ -24,7 +24,7 @@ Python Study
 # 🎓 튜토리얼을 마친 사람 목록
 
 - [신해나라](HelloWorld/Haenara/Helloworld.py)
-- 여기에 추가바람.
+- [서기수](HelloWorld/Kisoo/HelloWorld.py)
 
 # ☑️ 스터디 준비
 
@@ -117,6 +117,3 @@ Python Study
 
 - [**Octotree**](https://chrome.google.com/wesbstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) : 크롬에서 깃허브 저장소 내의 경로를 탐색기처럼 보기 편하게 보여주는 크롬 확장프로그램
 - [**GitHub 한글화**](https://chrome.google.com/webstore/detail/github-%ED%95%9C%EA%B8%80%ED%99%94/phhgannnkapemfnciphmbpenaflbngmm) : 깃허브의 나용을 한글로 번역해서 보여주는 크롬 확장프로그램
-
-## 튜토리얼을 마친 사람
-- [서기수](HelloWorld/Kisoo/HelloWorld.py)
