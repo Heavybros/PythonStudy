@@ -107,6 +107,7 @@ Python Study
 - [Git 세미나 자료](https://www.dropbox.com/s/k16g5sgsfb2s0bn/2017_10_25_GIT%EC%84%B8%EB%AF%B8%EB%82%98%EC%9E%90%EB%A3%8C.pptx?dl=0)
 - [Git 브랜치 배우기](https://learngitbranching.js.org/)
 - [누구나 쉽게 이해할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/intro/intro2_1.html)
+- [점프투파이썬 책 예제](https://github.com/flagman1211/PythonExam)⭐️
 
 ## :octocat: GitHub 사용방법 익혀보기
 
@@ -116,3 +117,6 @@ Python Study
 
 - [**Octotree**](https://chrome.google.com/wesbstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) : 크롬에서 깃허브 저장소 내의 경로를 탐색기처럼 보기 편하게 보여주는 크롬 확장프로그램
 - [**GitHub 한글화**](https://chrome.google.com/webstore/detail/github-%ED%95%9C%EA%B8%80%ED%99%94/phhgannnkapemfnciphmbpenaflbngmm) : 깃허브의 나용을 한글로 번역해서 보여주는 크롬 확장프로그램
+
+## 튜토리얼을 마친 사람
+- [서기수](HelloWorld/Kisoo/HelloWorld.py)
