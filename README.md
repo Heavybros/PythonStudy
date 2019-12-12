@@ -1,4 +1,4 @@
-Python Study
+HeavyBros. Python Study
 ====================================
 
 **✏️ 무거운 형제들의 파이썬 스터디**
@@ -8,18 +8,20 @@ Python Study
 # ✏️ 스터디 소개
 
 -	💁 누가? : [무거운 형제들](http://heavybros.dothome.co.kr/)이 진행하지만 누구나 참여 가능!
--	⏰ 언제? : 주 1회 아무때나 (TBD.)
 -	🐍 무엇을? : Python 3.8
--	✏️ 어떻게? : 온라인으로 각자 문제를 푼다! (TBD.)
+-	⏰ 언제? : 주 1회 아무때나 (TBD.)
+-	✏️ 어떻게? : 각자 개발 주제를 선정해서 같이 개발한다. (TBD.)
 
 # 🎯 스터디 목적
 
 - 파이썬 스터디를 통해 업무 자동화와 개발의욕 증진을 위한 실용위주, 흥미위주의 학습을 하고자 합니다. 
 - 결론은 쉽고, 쓸모있고, 재미있다면 어떻게든 개발해나갈 겁니다. 
 
-# 📅 진행 방식
+# 📅 진행 방식 (TBD.)
 
-- TBD.
+- 개발하고 싶은 주제를 각자 선정해서 공유합니다.
+- 각자 파이썬으로 개발해 봅니다. 
+- 서로의 코드를 리뷰하고 실제로 적용해 봅니다.
 
 # 🎓 튜토리얼을 마친 사람 목록
 
@@ -77,7 +79,7 @@ Python Study
 - [스터디 레포지토리](https://github.com/Heavybros/PythonStudy)의 우측상단의 **Fork**버튼을 눌러서 자신의 저장소에 복사합니다.
 - Fork된 자신의 저장소에서 **Clone or Download** 를 눌러 URL 복사 후 SourceTree 등을 이용하여 Clone 을 로컬 PC에 저장한다.
 
-## 🏅 튜토리얼 마친것 인증하기
+## 🏅 튜토리얼 완료하고 인증하기
 
 1. Clone 된 자신의 Fork 저장소를 열어어 HelloWorld/자신의이름 폴더를 생성한다.
 2. 해당 경로에 Hello World! 를 출력하는 간단한 파이썬 프로그램을 작성 및 저장한다.
@@ -89,7 +91,11 @@ Python Study
  
 
 # 👀 참고 자료
-- [점프투파이썬 책 예제](https://github.com/flagman1211/PythonExam)⭐️
+
+## 🐍 파이썬 학습자료
+
+- [점프 투 파이썬 Wikidocs](https://wikidocs.net/book/1)
+- [점프 투 파이썬 책 예제](https://github.com/flagman1211/PythonExam) by 기수⭐️
 
 ## 🎥 가이드 영상 
 
