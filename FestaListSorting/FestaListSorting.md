@@ -75,3 +75,11 @@ GDG Korea
 - **💁 주최** : DroidKnights Community
 ```
 
+# 풀이
+
+- 소스 코드 : [FestaListSorting.py](FestaListSorting.py)
+- 입력받으면 3번에 한번씩 순서에 알맞게 맞추어 class에 넣은 다음 최종적으로 이벤트 목록을 날짜 역순으로 정렬하였다.
+
+# 적용
+
+- https://github.com/HaenaraShin/Dev-Conference-Review
