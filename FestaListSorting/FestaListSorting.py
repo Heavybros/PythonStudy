@@ -34,6 +34,7 @@
 
 
 import operator
+import datetime
 
 # 페스타 이벤트 정보를 담는 클래스
 class FeastaEvent:
@@ -46,6 +47,14 @@ class FeastaEvent:
         print('### ', self.name, '\n')
         print("- ** 일시** : ", self.date)
         print("- ** 주최** : ", self.host)
+
+# 2019년 12월 21일 오후 1:00 ---> 2018. 04. 22 (토) 형태로 변경
+def date_format_kor(origin_str):
+    dateStr = origin_str.replace('오전', 'AM').replace('오후', 'PM')
+    day_kor = ['(일)', '(월)', '(화)', '(수)', '(목)', '(금)', '(토)']
+    date = datetime.datetime.strptime(dateStr, '%Y년 %m월 %d일 %p %I:%M').strftime('%Y. %m. %d')
+    day = day_kor[int(datetime.datetime.strptime(dateStr, '%Y년 %m월 %d일 %p %I:%M').strftime('%w'))]
+    return date + " " + day
 
 # 여러줄의 페스타 이벤트 목록을 입력받을 함수
 def read_feasta_list():
@@ -65,7 +74,7 @@ def read_feasta_list():
     for i in range(0, len(string)):
         # 첫번째 줄은 날짜
         if (i % 3 ==0):
-            date = string[i]
+            date = date_format_kor(string[i])
         # 두번째 줄은 행사 이름
         elif (i % 3 ==1):
             name = string[i]

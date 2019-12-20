@@ -32,7 +32,8 @@ HeavyBros. Python Study
 
 # 🤔 앞으로 풀어 볼 문제들
 
-- 여기에 추가 바람.
+- [Festa.io 의 이벤트 목록 정렬하기 v2.0 by 신해나라](FestaListSorting/FestaListSortingv2.md)
+- 매일프로그래밍 문제 메일로 받아서 자동으로 Markdown으로 생성하기 by 신해나라
 
 # 🙋 스터디 참여하기
 
