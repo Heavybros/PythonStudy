@@ -1,0 +1,315 @@
+beat|beat|beat/beaten|치다, 때리다
+beset|beset|beset|에워싸다 포위하다 장식하다
+bet|bet/betted|bet/betted|돈걸다주장단언하다
+bid|bid/bade|bid/bidden|값을매기다, 명령하다
+broadcast|broadcast|broadcast|방송하다
+browbeat|browbeat|browbeat|위협하다, ~못하게하다
+burst|burst|burst|터뜨리다
+cast|cast|cast|던지다
+cost|cost|cost|비용이들다
+cut|cut|cut|자르다
+fit|fit|fit|적합하다 맞다
+forecast|forecast|forecast|예상,예보,예고
+hit|hit|hit|치다, 때리다
+hurt|hurt|hurt|부상입히다
+input|input|input|입력하다
+inset|inset|inset|끼워넣다,꽂아넣다
+knit|knit/knitted|knit/knitted|짜다
+let|let|let|놓다,허락하다
+misread|misread|misread|잘못읽다,오해
+outbid|outbid|outbid|더비싼값을매기다
+overcast|overcast|overcast|침울하게어둡게하다
+preset|preset|preset|미리조정하다
+proofread|proofread|proofread|교정하다
+put|put|put|놓다
+quit|quit/quitted|quit/quitted|중단하다
+read/i;/|read /e/|read /e/|읽다
+recast|recast|recast|다시방송하다
+reset|reset|reset|다시놓다,다시짜다
+rid|rid|rid|제거하다
+set|set|set|정하다
+shed|shed|shed|흘리다
+shit|shit/shat|shit/shat|대변보다
+shut|shut|shut|닫다
+slit|slit|slit|잘라내다째다
+spit|spit/spat|spit/spat|침뱉다
+spread|spread|spread|퍼뜨리다
+thrust|thrust|thrust|밀치다쑤셔넣다
+upset|upset|upset|뒤엎다,전복시키다
+wed|wed/wedded|wed/wedded|결혼하다
+wet|wet/wetted|wet/wetted|젖다, 적시다 
+become|became|become|~가되다
+come|came|come|오다
+outrun|outran|outrun|앞지르다 능가하다
+overcome|overcame|overcome|극복하다
+overrun|overran|overrun|침략하다
+rerun|reran|rerun|재상영하다
+run|ran|run|뛰다
+abide|abode/abided|abode/abided|머무르다,체류하다
+mishear|misheard|misheard|잘못듣다
+mislay|mislaid|mislaid|잘못두다 잊어버리다
+mislead|misled|misled|잘못인도하다
+misspell|misspelled/misspelt|misspelled/misspelt|철자를 잘못쓰다
+misunderstand|misunderstood|misunderstood|오해하다
+outsell|outsold|outsold|더 많이 팔다
+overhang|overhung|overhung|돌출하다
+overhear|overheard|overheard|건너듣다
+overlay|overlaid|overlaid|위에놓다덧칠하다
+overpay|overpaid|overpaid|초과지급하다
+oversell|oversold|oversold|너무팔다
+overshoot|overshot|overshot|빗나가게쏘다
+oversleep|overslept|overslept|너무자다
+pay|paid|paid|지불하다
+plead|pled/pleaded|pled/pleaded|청원하다 간청
+rebind|rebound|rebound|다시 묶다
+rebuild|rebuilt|rebuilt|재건하다
+relay|relaid/relayed|relaid/relayed|다시놓다 중계하다
+remake|remade|remade|다시만들다
+repay|repaid|repaid|다시지불하다
+resell|resold|resold|다시필다
+rethink|rethought|rethought|재고하다
+rewind|rewound|rewound|다시감다
+say|said|said|말하다
+seek|sought|sought|추구하다
+sell|sold|sold|팔다
+send|sent|sent|보내다
+shine|shone/shined|shone/shined|빛나다
+shoot|shot|shot|촬영하다쏘다
+sit|sat|sat|앉다
+sleep|slept|slept|자다
+slide|slid|slid|미끄러지다
+sling|slung|slung|내던지다
+smell|smelled/smelt|smelled/smelt|냄새맡다
+speed|sped/speeded|sped/speeded|속도내다
+spell|spelled/spelt|spelled/spelt|철자를쓰다
+spend|spent|spent|쓰다소비하다
+spill|spilt|spilt|엎지르다
+spin|spun|spun|짜다
+spoil|spoiled/spoilt|spoiled/spoilt|망치다
+stand|stood|stood|서다주장하다
+stick|stuck|stuck|들러붙다
+sting|stung|stung|찌르다쏘다
+string|strung|strung|줄묶다
+sweep|swept|swept|싹쓸다
+swing|swung|swung|흔들리다
+teach|taught|taught|가르치다
+tell|told|told|말하다
+think|thought|thought|생각하다
+unbind|unbound|unbound|풀다
+understand|understood|understood|이해하다
+unwind|unwound|unwound|풀다
+overthrow|overthrew|overthrown|굴복,전복하다
+partake|partook|partaken|참가하다
+prove|proved|proven/proved|증명하다
+redo|redid|redone|다시하다
+rewrite|rewrote|rewritten|다시쓰다
+ride|rode|ridden|타다
+ring|rang|rung|종울리다
+rise|rose|risen|상승증가오르다
+see|saw|seen|보다
+sew|sewed|sewn/sewed|바느질하다
+shake|shook|shaken|흔들다
+shear|sheared|shorn/sheared|자르다깎다
+show|showed|shown/showed|보여주다
+shrink|shrank/shrunk|shrunk|줄다오므라들다
+sing|sang|sung|노래하다
+slay|slew|slain|도살하다
+speak|spoke|spoken|말하다
+spring|sprang/sprung|sprung|솟아나다튀어오르다
+steal|stole |stolen|훔치다
+stink|stank|stunk|냄새악취나다
+strew|strewed|strewn|흩뿌리다
+stride|strode|stridden|활보하다
+strike|struck|struck|치다파업하다
+strive|strove|striven|애쓰다분투하다
+swear|swore|sworn|맹세서약하다
+swell|swelled|swollen/swelled|부풀다붓다
+swim|swam|swum|수영하다
+take|took|taken|취하다갖다
+tear|tore|torn|눈물흘리다
+throw|threw|thrown|던지다
+tread|trod|trodden/trod|터벅걷다
+underlie|underlay|underlain|아래두다
+undertake|undertook|undertaken|떠맡다
+underwrite|underwrote|underwritten|서명하다아래쓰다
+undo|undid|undone|원상태로돌리다
+wake|woke|woken|일어나다
+wear|wore|worn|입다닳다
+weave|wove|woven|짜다엮다
+withdraw|withdrew|withdrawn|철수철회인출하다
+write|wrote|written|쓰다
+lay|laid|laid|놓다 알낳다
+lie|lay|lain|누워있다. 놓여있다
+lie|lied|lied|거짓말하다
+find|found|found|찾다
+found|founded|founded|세우다
+wind|wound|wound|감다
+wound|wounded|wounded|상처,부상입히다
+rise|rose|risen|올라가다떠오르다
+raise|raised|raised|들어올리다 들다
+fall|fell|fallen|넘어지다
+fell|felled|felled|넘어뜨리다
+sit|sat|sat|앉다
+looked|hoped|stopped|walked
+waited|mended|ended|visited
+naked|나체의|beloved|사랑하는
+ragged|누더기의|wicked|사악한
+dogged|완고한|learned|학식있는
+played|lived|opened|
+omitted|limited|painted|
+rugged|울퉁불퉁한|the aged|노인들
+wretched|불쌍한|crooked|굽은 뒤틀린 기형의
+alight|alighted/alit|alighted/alit|버스내리다, 새,비행기 착륙하다
+behold |beheld |beheld |주시하다,보다
+bend|bent|bent|구부리다
+bereave|bereaved/bereft|bereaved/bereft|빼앗게하다 앗아가다
+bind |bound|bound|묶다, 매다
+bleed |bled|bled|피흘리다
+blend|blended/blent|blended/blent|섞다 혼합하다 조화되다
+breed |bred|bred|키우다
+bring |brought|brought|가져오다
+build |built|built|건설하다
+burn |burnt/burned|burnt/burned|태우다
+bust |busted/bust|busted/bust|파산,파멸하다/시키다
+buy |bought|bought|사다
+catch |caught|caught|잡다
+chide|chid/chided|chid/chided/chidden|잔소리하다 꾸짖다
+cleave|cleft/clove/cleaved|cleft/cloven/cleaved|쪼개다 찢다 개척하다
+cling |clung|clung|들러붙다
+clothe|clothed/clad|clothed/clad|옷을입히다 뒤덮다
+creep |crept|crept|기어가다
+deal |dealt|dealt|다루다
+dig |dug|dug|파다
+dream |dreamt/dreamed|dreamt/dreamed|꿈꾸다
+dwell |dwelt/dwelled|dwelt/dwelled|거주하다
+feed|fed|fed|먹이다
+feel |felt|felt|느끼다
+fight |fought|fought|싸우다
+find |found|found|찾다
+flee |fled|fled|도망치다
+fling |flung|flung|내던지다
+foretell |foretold|foretold|예언예고하다
+grind|ground|ground|갈다
+hang|hanged|hanged|목매달아죽이다
+hang|hung|hung|매달다걸다
+have|had|had|갖다
+hear|heard|heard|듣다
+hold|held|held|잡다지탱하다
+interbreed|interbred|interbred|잡종이종교배시키다
+keep|kept|kept|유지하다
+kneel|knelt/kneeled|knelt/kneeled|무릎꿇다
+lay|laid|laid|놓다
+lead|led|led|이끌다
+lean|leaned/leant|leaned/leant|기울다
+leap|leapt/leaped|leapt/leaped|뛰다
+learn|learnt/learned|learnt/learned|배우다
+leave|left|left|떠나다
+lend|lent|lent|빌려주다
+light|lit/lighted|lit/lighted|밝히다
+lose|lost|lost|잃다
+make|made|made|만들다
+mean|meant|meant|의미하다
+meet|met|met|만나다
+uphold|upheld|upheld|올리다
+weep |wept|wept|울다
+win|won|won|이기다
+welcome|welcomed|welcomed|환영하다
+wind|wound|wound|감다
+wring|wrung|wrung|비틀다
+arise|arose|arisen|일어나다생겨나다
+awake|awoke/awaked|awoken/awaked,awoke|깨어나다일어나다
+be|was/were|been|이다있다
+bear|bore|born/borne|참다낳다
+befall|befell|befallen|일어나다발생
+beget|begot|begotten/begot|아버지가 자식을 얻다
+begin|began|begun|시작하다
+bite|bit|bitten|물다
+blow|blew|blown|불다폭파하다
+break|broke|broken|깨다어기다
+choose|chose|chosen|고르다선택하다
+dive|dived/dove|dived|다이빙,잠수
+do|did|done|하다
+draw|drew|drawn|당기다그리다끌다인출하다
+drink|drank|drunk|마시다
+drive|drove|driven|운전하다
+eat|ate|eaten|먹다
+fall|fell|fallen|떨어지다
+fly|flew|flown|날다
+forbid|forbade|forbidden|금지하다
+forego|forewent|foregone|선행하다앞서다
+foresee|foresaw|foreseen|예견예측하다
+forget|forgot|forgotten|잊다
+forgive|forgave|forgiven|용서하다
+forsake|forsook|forsaken|떠나다
+freeze|froze|frozen|얼리다
+get|got|got/gotten|갖다 얻다
+give|gave|given|주다
+go|went|gone|가다
+grow|grew|grown|자라다키우다
+hide|hid|hidden|숨기다
+interweave|interwove|interwoven|섞어짜다
+know|knew|known|알다
+lie|lay|lain|눕다놓여있다
+mistake|mistook|mistaken|실수하다
+mow|mowed|mowed|잔디를 깎다
+outdo|outdid|outdone|능가하다
+outgrow|outgrew|outgrown|더자라다너무성장
+overdo|overdid|overdone|지나치게하다
+overdraw|overdrew|overdrawn|과장묘사
+overeat|overate|overeaten|과식하다
+overlie|overlay|overlain|위에놓다눕다
+override|overrode|overridden|위에타다압도하다
+oversee|oversaw|overseen|감독하다우연히보다
+overtake|overtook|overtaken|따라잡다만회하다
+set|set|set|놓다배치,맞추다
+hang|hung|hung|매달다걸다
+hang|hanged|hanged|교수형처하다
+break|broke|broken|부서뜨리다
+break|broke|broke|파산한
+drink|drank|drunken|한정적
+drink|drunk|서술적
+bear|bore|born|낳다
+bear|bore|borne|견디다산출
+beat|beat|beat/beaten|치다, 때리다
+bet|bet/betted|bet/betted|돈걸다주장단언하다
+bid|bid/bade|bid/bidden|값을매기다, 명령하다
+knit|knit/knitted|knit/knitted|짜다
+quit|quit/quitted|quit/quitted|중단하다
+shit|shit/shat|shit/shat|대변보다
+spit|spit/spat|spit/spat|침뱉다
+wed|wed/wedded|wed/wedded|결혼하다
+wet|wet/wetted|wet/wetted|젖다
+abide|abode/abided|abode/abided|머무르다,체류하다
+alight|alighted/alit|alighted/alit|버스내리다, 새, 비행기 착륙하다
+bereave|bereaved/bereft|bereaved/bereft|빼앗게하다 앗아가다
+blend|blended/blent|blended/blent|섞다 혼합하다 조화되다
+burn |burnt/burned|burnt/burned|태우다
+bust |busted/bust|busted/bust|파산,파멸하다/시키다
+chide|chid/chided|chid/chided/chidden|잔소리하다 꾸짖다
+cleave|cleft/clove/cleaved|cleft/cloven/cleaved|쪼개다, 찢다, 개척하다
+clothe|clothed/clad|clothed/clad|옷을입히다 뒤덮다
+dream |dreamt/dreamed|dreamt/dreamed|꿈꾸다
+dwell |dwelt/dwelled|dwelt/dwelled|거주하다
+kneel|knelt/kneeled|knelt/kneeled|무릎꿇다
+lean|leaned/leant|leaned/leant|기울다
+leap|leapt/leaped|leapt/leaped|뛰다
+learn|learnt/learned|learnt/learned|배우다
+light|lit/lighted|lit/lighted|밝히다
+misspell|misspelled/misspelt|misspelled/misspelt|철자를잘못쓰다
+plead|pled/pleaded|pled/pleaded|청원하다 간청
+shine|shone/shined|shone/shined|빛나다
+smell|smelled/smelt|smelled/smelt|냄새맡다
+speed|sped/speeded|sped/speeded|속도내다
+spell|spelled/spelt|spelled/spelt|철자를쓰다
+spoil|spoiled/spoilt|spoiled/spoilt|망치다
+awake|awoke/awaked|awoken/awaked/awoke|깨어나다일어나다
+bear|bore|born/borne|참다낳다
+get|got|got/gotten|갖다 얻다
+prove|proved|proven/proved|증명하다
+sew|sewed|sewn/sewed|바느질하다
+shear|sheared|shorn/sheared|자르다깎다
+show|showed|shown/showed|보여주다
+shrink|shrank/shrunk|shrunk|줄다오므라들다
+spring|sprang/sprung|sprung|솟아나다튀어오르다
+swell|swelled|swollen/swelled|부풀다붓다
+tread|trod|trodden/trod|터벅걷다
