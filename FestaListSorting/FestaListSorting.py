@@ -71,7 +71,7 @@ def read_feasta_list():
     date = ""
     name = ""
     host = ""        
-    for i in range(0, len(string)):
+    for i in range(len(string)):
         # 첫번째 줄은 날짜
         if (i % 3 ==0):
             date = date_format_kor(string[i])
