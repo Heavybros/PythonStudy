@@ -82,4 +82,4 @@ GDG Korea
 
 # 적용
 
-- https://github.com/HaenaraShin/Dev-Conference-Review
+- https://github.com/HaenaraShin/Dev-Conference-Review/commit/1209506e1080d3853f4ba591a73ebe2df2a5132d
