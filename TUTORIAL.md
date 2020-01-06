@@ -12,6 +12,7 @@
 - [신해나라](HelloWorld/Haenara/Helloworld.py)
 - [서기수](HelloWorld/Kisoo/HelloWorld.py)
 - [좌형준](HelloWorld/JwaHyungJun/HelloWorld.py)
+- [이남주](HelloWorld/LeeNamju/HelloWorld.py)
 
 # ☑️ 스터디 준비
 
@@ -104,7 +105,7 @@
 
 - [GitHub Learning Lab](https://lab.github.com/)에서 깃허브 사용법을 Step by Step 으로 학습할 수 있습니다. 
 
-## 👍 설치하면 좋은 플러그인
+## 👍 설치하면 좋은 플러그인 
 
 - [**Octotree**](https://chrome.google.com/wesbstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) : 크롬에서 깃허브 저장소 내의 경로를 탐색기처럼 보기 편하게 보여주는 크롬 확장프로그램
 - [**GitHub 한글화**](https://chrome.google.com/webstore/detail/github-%ED%95%9C%EA%B8%80%ED%99%94/phhgannnkapemfnciphmbpenaflbngmm) : 깃허브의 나용을 한글로 번역해서 보여주는 크롬 확장프로그램
