@@ -48,6 +48,7 @@ HeavyBros. Python Study
 - [신해나라](HelloWorld/Haenara/Helloworld.py)
 - [서기수](HelloWorld/Kisoo/HelloWorld.py)
 - [좌형준](HelloWorld/JwaHyungJun/HelloWorld.py)
+- [이남주](HelloWorld/LeeNamju/HelloWorld.py)
 
 # 👀 참고 자료
 
