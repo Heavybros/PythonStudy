@@ -5,7 +5,7 @@ HeavyBros. Python Study
 
 ![Python](python-logo.png)
 
-# ✏️ 스터디 소개
+# ✏️ 스터디 소개 
 
 -	💁 누가? : [무거운 형제들](http://heavybros.dothome.co.kr/)이 진행하지만 누구나 참여 가능!
 -	🐍 무엇을? : Python 3.8
@@ -22,7 +22,7 @@ HeavyBros. Python Study
 
 - [🐣튜토리얼](TUTORIAL.md)을 진행하는 것으로 스터디에 참여해보세요!
 - 개발하고 싶은 주제를 각자 선정해서 공유합니다.
-- 각자 파이썬으로 개발해 봅니다. 
+- 각자 파이썬으로 개발해 봅니다.
 - 서로의 코드를 리뷰하고 실제로 적용해 봅니다.
 
 
@@ -48,6 +48,7 @@ HeavyBros. Python Study
 - [신해나라](HelloWorld/Haenara/Helloworld.py)
 - [서기수](HelloWorld/Kisoo/HelloWorld.py)
 - [좌형준](HelloWorld/JwaHyungJun/HelloWorld.py)
+- [이남주](HelloWorld/LeeNamju/HelloWorld.py)
 
 # 👀 참고 자료
 
