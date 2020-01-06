@@ -34,4 +34,4 @@ be - (    ) - been - ~이다 : 정답입력
 ...반복(그만하고 싶을 경우 'Q' 입력)
 ```
 # 풀이
-- 소스코드 [Irregular.Verbs](IrregularVerbs.py)에 작업중...
+- 소스코드 [Irregular.Verbs](IrregularVerbs.py)
