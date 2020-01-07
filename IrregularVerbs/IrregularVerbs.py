@@ -58,7 +58,7 @@ class IrregularVerbList:
         correctCount = 0
         BlankIdx = 0
         i = 0
-        while i <= len(self.__list):
+        while i < len(self.__list):
             infinitive = self.__list[i].infinitive
             simplePast = self.__list[i].simplePast
             pastParticiple = self.__list[i].pastParticiple
