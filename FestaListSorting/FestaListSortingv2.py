@@ -31,7 +31,7 @@ class FeastaEvent:
         # open 을 해서 없는 파일이면 새로 생성한다.
         # a는 내용 추가, r은 읽기전용, w은 쓰기이다.
         # w대신 a를 쓴 이유는 내용을 계속 추가해야하는데 w로 쓰면 덮어씌워져서 이전 반복문에서 추가한 내용이 사라지기 때문.
-        f= open("temp.txt", "a")
+        f= open("temp.txt", mode="a",  encoding='utf8')
         content = "### " + self.name + "\n\n"
         content += "- **⏰ 일시** : " + self.date + "\n"
         content += "- **💁 주최** : " + self.host + "\n"
@@ -54,7 +54,7 @@ class FeastaEvent:
         content += "- ⛳ 장소 : \n"
         content += "- 🔗 링크 : \n\n"
         content += "## 👏 총평 \n\n- ㅁ\n\n"
-        content += "## 인증샷\n\n![인증샷](self.png)\n"
+        content += "## 📸 인증샷\n\n![인증샷](self.png)\n"
         return content
 
     # 실제 상세리뷰 md 파일을 만드는 함수
@@ -65,7 +65,7 @@ class FeastaEvent:
         self.createDirectory(year + "/" + day)
         # 파일이 없으면 생성
         if not os.path.exists(self.getFileNameWithPath()):
-            f= open(self.getFileNameWithPath(),"w+")
+            f= open(self.getFileNameWithPath(), mode="w+", encoding='utf8')
             f.write(self.file_contents_text())
             f.close()
 
