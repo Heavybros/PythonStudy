@@ -30,11 +30,11 @@ HeavyBros. Python Study
 
 - [Festa.io 의 이벤트 목록 정렬하기 by 신해나라](FestaListSorting/FestaListSorting.md)
 - [Festa.io 의 이벤트 목록 정렬하기 v2.0 by 신해나라](FestaListSorting/FestaListSortingv2.md)
+- [불규칙 동사 변형 퀴즈 by 서기수](IrregularVerbs/IrregularVerbs.md)
 
 # 🤔 앞으로 풀어 볼 문제들
 
 - 매일프로그래밍 문제 메일로 받아서 자동으로 Markdown으로 생성하기 by 신해나라
-- 불규칙 동사 변형 퀴즈 by 서기수
 
 # 🙋 스터디 참여하기
 
