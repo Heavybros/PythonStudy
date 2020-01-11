@@ -56,3 +56,4 @@ HeavyBros. Python Study
 
 - [점프 투 파이썬 Wikidocs](https://wikidocs.net/book/1)
 - [점프 투 파이썬 책 예제](https://github.com/flagman1211/PythonExam) by 기수⭐️
+- [파이썬으로 GUI 프로그래밍 환경구성](Python%20GUI%20Environment%20Setting/PythonGUIEnvironmentSetting.md)
