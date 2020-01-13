@@ -29,7 +29,7 @@ from PyQt5 import uic
 class Form(QtWidgets.QDialog):
     def __init__(self, parent = None):
         QtWidgets.QDialog.__init__(self, parent)
-        self.ui = uic.loadUi('D:/PythonExam/UsingPyQ5/uiTest.ui')
+        self.ui = uic.loadUi('Python GUI Environment Setting/uiTest.ui')
         self.ui.show()
 
 if __name__ == '__main__':
