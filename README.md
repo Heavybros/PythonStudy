@@ -35,6 +35,7 @@ HeavyBros. Python Study
 # 🤔 앞으로 풀어 볼 문제들
 
 - 매일프로그래밍 문제 메일로 받아서 자동으로 Markdown으로 생성하기 by 신해나라
+- [UBC*.kt 소스코드 자동 생성하기 by 신해나라](UbmcallCreator/UbmcallCreator.md)
 
 # 🙋 스터디 참여하기
 
