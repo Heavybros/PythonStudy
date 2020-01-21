@@ -35,21 +35,13 @@ UBC + 함수명 + .kt
 package com.harex.feature.ubmcall
 
 import com.harex.core.Ubm
-import com.harex.feature.ubmcall.Ubmcall
+import org.json.JSONObject
 
-class UBC* : Ubmcall {
-    override fun execute() {
-        TODO("not implemented")
+class UBC*(command: String, rawData: JSONObject) : Ubmcall(command, rawData) {
+    override fun execute(): UbmcallCallback {
+        Ubm.log.v("$command ubmcall has executed.")
+        return UbmcallCallback(true, successKey(), "")
     }
-
-    override fun success() {
-        TODO("not implemented")
-    }
-
-    override fun fail() {
-        TODO("not implemented")
-    }
-
 }
 ```
 
@@ -68,21 +60,13 @@ getAttribute
 package com.harex.feature.ubmcall
 
 import com.harex.core.Ubm
-import com.harex.feature.ubmcall.Ubmcall
+import org.json.JSONObject
 
-class UBCsetAttribute : Ubmcall {
-    override fun execute() {
-        TODO("not implemented")
+class UBCsetAttribute(command: String, rawData: JSONObject) : Ubmcall(command, rawData) {
+    override fun execute(): UbmcallCallback {
+        Ubm.log.v("$command ubmcall has executed.")
+        return UbmcallCallback(true, successKey(), "")
     }
-
-    override fun success() {
-        TODO("not implemented")
-    }
-
-    override fun fail() {
-        TODO("not implemented")
-    }
-
 }
 ```
 
@@ -93,24 +77,18 @@ class UBCsetAttribute : Ubmcall {
 package com.harex.feature.ubmcall
 
 import com.harex.core.Ubm
-import com.harex.feature.ubmcall.Ubmcall
+import org.json.JSONObject
 
-class UBCgetAttribute : Ubmcall {
-    override fun execute() {
-        TODO("not implemented")
+class UBCsetAttribute(command: String, rawData: JSONObject) : Ubmcall(command, rawData) {
+    override fun execute(): UbmcallCallback {
+        Ubm.log.v("$command ubmcall has executed.")
+        return UbmcallCallback(true, successKey(), "")
     }
-
-    override fun success() {
-        TODO("not implemented")
-    }
-
-    override fun fail() {
-        TODO("not implemented")
-    }
-
 }
 ```
 
 # 풀이
+
+- 소스 코드 : [UbmcallCreator.py](UbmcallCreator.py)
 
 
