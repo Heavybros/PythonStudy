@@ -1,4 +1,4 @@
-UBC*.kt 소스코드 자동 생성하기
+Ubmcall_*.kt 소스코드 자동 생성하기
 ===================================
 
 # 문제 설명
@@ -17,17 +17,17 @@ removeAttribute
 - 이 함수 명들을 가지고 아래와 같은 코틀린 파일을 생성하고자 합니다.
 
 ```
-UBCsetAttribute.kt
-UBCgetAttribute.kt
-UBCremoveAttribute.kt
+Ubmcall_setAttribute.kt
+Ubmcall_getAttribute.kt
+Ubmcall_removeAttribute.kt
 ...
 ```
  
 # 요구 사항
 
-- 생성할 UBC*.kt 코틀린 파일 명명규칙은 아래와 같다. 
+- 생성할 Ubmcall_*.kt 코틀린 파일 명명규칙은 아래와 같다. 
 ```
-UBC + 함수명 + .kt
+Ubmcall_ + 함수명 + .kt
 ```
 
 - 생성된 코틀린 파일의 내부에 입력될 소스코드는 아래와 같다.
@@ -37,7 +37,7 @@ package com.harex.feature.ubmcall
 import com.harex.core.Ubm
 import org.json.JSONObject
 
-class UBC*(command: String, rawData: JSONObject) : Ubmcall(command, rawData) {
+class Ubmcall_*(command: String, rawData: JSONObject) : Ubmcall(command, rawData) {
     override fun execute(): UbmcallCallback {
         Ubm.log.v("$command ubmcall has executed.")
         return UbmcallCallback(true, successKey(), "")
@@ -54,7 +54,7 @@ getAttribute
 # 예제 출력
 
 
-- 파일명 :  UBCsetAttribute.Kt
+- 파일명 :  Ubmcall_setAttribute.kt
 - 소스코드 : 
 ```
 package com.harex.feature.ubmcall
@@ -62,7 +62,7 @@ package com.harex.feature.ubmcall
 import com.harex.core.Ubm
 import org.json.JSONObject
 
-class UBCsetAttribute(command: String, rawData: JSONObject) : Ubmcall(command, rawData) {
+class Ubmcall_setAttribute(command: String, rawData: JSONObject) : Ubmcall(command, rawData) {
     override fun execute(): UbmcallCallback {
         Ubm.log.v("$command ubmcall has executed.")
         return UbmcallCallback(true, successKey(), "")
@@ -70,7 +70,7 @@ class UBCsetAttribute(command: String, rawData: JSONObject) : Ubmcall(command, r
 }
 ```
 
-- 파일명 :  UBCsetAttribute.Kt
+- 파일명 :  Ubmcall_setAttribute.kt
 - 소스코드 : 
 
 ```
@@ -79,7 +79,7 @@ package com.harex.feature.ubmcall
 import com.harex.core.Ubm
 import org.json.JSONObject
 
-class UBCsetAttribute(command: String, rawData: JSONObject) : Ubmcall(command, rawData) {
+class Ubmcall_setAttribute(command: String, rawData: JSONObject) : Ubmcall(command, rawData) {
     override fun execute(): UbmcallCallback {
         Ubm.log.v("$command ubmcall has executed.")
         return UbmcallCallback(true, successKey(), "")
